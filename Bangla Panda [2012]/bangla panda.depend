@@ -1,0 +1,997 @@
+# depslib dependency file v1.0
+1328707737 source:c:\users\ratul\desktop\grapics_code\ratu\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<dos.h>
+
+1323297597 source:c:\users\ratul\desktop\grapics_code\ratu\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328717023 source:c:\users\ratul\desktop\grapics_code\ratu\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1323296266 source:c:\users\ratul\desktop\grapics_code\ratu\panda.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+
+1328710937 source:c:\users\ratul\desktop\grapics_code\ratu\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<MMsystem.h>
+
+1328710937 source:c:\users\ratul\desktop\grapics_code - copy\ratu\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<MMsystem.h>
+
+1328717023 source:c:\users\ratul\desktop\grapics_code - copy\ratu\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1323297597 source:c:\users\ratul\desktop\grapics_code - copy\ratu\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328746732 source:c:\users\ratul\desktop\grapics_code - copy\ratu\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<dos.h>
+
+1328746732 source:c:\users\ratul\desktop\grapics_code - copy\ratu\cro.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328745895 source:c:\users\ratul\desktop\grapics_code - copy\ratu\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746821 source:c:\users\ratul\desktop\grapics_code - copy\ratu\score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746821 source:c:\users\ratul\desktop\grapics_code - copy\ratu\shen.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328746821 source:c:\users\ratul\desktop\grapics_code - copy\ratu\tai.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328748779 source:c:\users\ratul\desktop\grapics_code - copy\ratu\game.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1323297597 source:d:\main game\2\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328746732 source:d:\main game\2\cro.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328710937 source:d:\main game\2\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<MMsystem.h>
+
+1328749083 source:d:\main game\2\game.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328717023 source:d:\main game\2\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328745895 source:d:\main game\2\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746821 source:d:\main game\2\score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746821 source:d:\main game\2\shen.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328746821 source:d:\main game\2\tai.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328749555 source:d:\main game\2\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<dos.h>
+
+1323297597 source:c:\users\ratul\desktop\game test\test 1\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328746732 source:c:\users\ratul\desktop\game test\test 1\cro.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328710937 source:c:\users\ratul\desktop\game test\test 1\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<MMsystem.h>
+
+1328749677 source:c:\users\ratul\desktop\game test\test 1\game.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328717023 source:c:\users\ratul\desktop\game test\test 1\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328774607 source:c:\users\ratul\desktop\game test\test 1\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746821 source:c:\users\ratul\desktop\game test\test 1\score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746821 source:c:\users\ratul\desktop\game test\test 1\shen.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328746821 source:c:\users\ratul\desktop\game test\test 1\tai.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328774454 source:c:\users\ratul\desktop\game test\test 1\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<dos.h>
+
+1323297597 source:c:\users\ratul\desktop\game test\test 2\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328746732 source:c:\users\ratul\desktop\game test\test 2\cro.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328710937 source:c:\users\ratul\desktop\game test\test 2\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<MMsystem.h>
+
+1328717023 source:c:\users\ratul\desktop\game test\test 2\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328777783 source:c:\users\ratul\desktop\game test\test 2\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746821 source:c:\users\ratul\desktop\game test\test 2\score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746821 source:c:\users\ratul\desktop\game test\test 2\shen.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328746821 source:c:\users\ratul\desktop\game test\test 2\tai.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328777404 source:c:\users\ratul\desktop\game test\test 2\game.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328777710 source:c:\users\ratul\desktop\game test\test 2\high_score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328777489 source:c:\users\ratul\desktop\game test\test 2\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<dos.h>
+
+1323297597 source:c:\users\user\desktop\test 3\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328789385 source:c:\users\user\desktop\test 3\cro.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328783641 source:c:\users\user\desktop\test 3\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<MMsystem.h>
+
+1328786654 source:c:\users\user\desktop\test 3\game.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328786373 source:c:\users\user\desktop\test 3\high_score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328717023 source:c:\users\user\desktop\test 3\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328788760 source:c:\users\user\desktop\test 3\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+
+1328786161 source:c:\users\user\desktop\test 3\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746821 source:c:\users\user\desktop\test 3\score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328789432 source:c:\users\user\desktop\test 3\shen.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328789385 source:c:\users\user\desktop\test 3\tai.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328786715 source:c:\users\user\desktop\test 3\option.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328785763 source:c:\users\user\desktop\test 3\inoption.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1323297597 source:c:\users\ratul\desktop\game test\test 5\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328789385 source:c:\users\ratul\desktop\game test\test 5\cro.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328783641 source:c:\users\ratul\desktop\game test\test 5\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<MMsystem.h>
+
+1328791421 source:c:\users\ratul\desktop\game test\test 5\game.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328786373 source:c:\users\ratul\desktop\game test\test 5\high_score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328785763 source:c:\users\ratul\desktop\game test\test 5\inoption.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328717023 source:c:\users\ratul\desktop\game test\test 5\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328791451 source:c:\users\ratul\desktop\game test\test 5\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328786161 source:c:\users\ratul\desktop\game test\test 5\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328786715 source:c:\users\ratul\desktop\game test\test 5\option.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746821 source:c:\users\ratul\desktop\game test\test 5\score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328789432 source:c:\users\ratul\desktop\game test\test 5\shen.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328789385 source:c:\users\ratul\desktop\game test\test 5\tai.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1329052917 source:c:\users\ratul\desktop\game test\test 6\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1329052496 source:c:\users\ratul\desktop\game test\test 6\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<MMsystem.h>
+
+1328791753 source:c:\users\ratul\desktop\game test\test 6\game.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328786373 source:c:\users\ratul\desktop\game test\test 6\high_score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328785763 source:c:\users\ratul\desktop\game test\test 6\inoption.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328717023 source:c:\users\ratul\desktop\game test\test 6\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1329052917 source:c:\users\ratul\desktop\game test\test 6\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1329053081 source:c:\users\ratul\desktop\game test\test 6\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328786715 source:c:\users\ratul\desktop\game test\test 6\option.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746821 source:c:\users\ratul\desktop\game test\test 6\score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328791659 source:c:\users\ratul\desktop\game test\test 6\cro.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328791659 source:c:\users\ratul\desktop\game test\test 6\shen.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328791659 source:c:\users\ratul\desktop\game test\test 6\tai.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1329052917 source:c:\users\ratul\desktop\game test\test 6 - copy\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328791659 source:c:\users\ratul\desktop\game test\test 6 - copy\cro.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1329052496 source:c:\users\ratul\desktop\game test\test 6 - copy\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<MMsystem.h>
+
+1332604823 source:c:\users\ratul\desktop\game test\test 6 - copy\game.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1332604790 source:c:\users\ratul\desktop\game test\test 6 - copy\high_score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328785763 source:c:\users\ratul\desktop\game test\test 6 - copy\inoption.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328717023 source:c:\users\ratul\desktop\game test\test 6 - copy\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1333458672 source:c:\users\ratul\desktop\game test\test 6 - copy\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1332604523 source:c:\users\ratul\desktop\game test\test 6 - copy\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328786715 source:c:\users\ratul\desktop\game test\test 6 - copy\option.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746821 source:c:\users\ratul\desktop\game test\test 6 - copy\score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328791659 source:c:\users\ratul\desktop\game test\test 6 - copy\shen.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328791659 source:c:\users\ratul\desktop\game test\test 6 - copy\tai.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1329052918 source:k:\class asignment\cse-100\bangla panda [2012]\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1328791660 source:k:\class asignment\cse-100\bangla panda [2012]\cro.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1329052498 source:k:\class asignment\cse-100\bangla panda [2012]\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<MMsystem.h>
+
+1332604824 source:k:\class asignment\cse-100\bangla panda [2012]\game.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333519054 source:k:\class asignment\cse-100\bangla panda [2012]\high_score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328785764 source:k:\class asignment\cse-100\bangla panda [2012]\inoption.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328717024 source:k:\class asignment\cse-100\bangla panda [2012]\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1333518904 source:k:\class asignment\cse-100\bangla panda [2012]\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333519702 source:k:\class asignment\cse-100\bangla panda [2012]\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328786716 source:k:\class asignment\cse-100\bangla panda [2012]\option.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746822 source:k:\class asignment\cse-100\bangla panda [2012]\score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328791660 source:k:\class asignment\cse-100\bangla panda [2012]\shen.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1328791660 source:k:\class asignment\cse-100\bangla panda [2012]\tai.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1333493077 source:k:\class asignment\cse-100\bangla panda [2012]\credit.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1329052918 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1333493078 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\credit.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333524730 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\cro.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1329052498 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<MMsystem.h>
+
+1333524943 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\game.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333524352 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\high_score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328785764 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\inoption.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328717024 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1333525091 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333519704 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328786716 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\option.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746822 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333524734 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\shen.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1333524736 source:c:\users\ratul\desktop\bangla panda [2012]\bangla panda [2012]\tai.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1329052918 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1333493078 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\credit.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333524732 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\cro.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1329052498 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<MMsystem.h>
+
+1333524944 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\game.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333524354 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\high_score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328785764 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\inoption.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328717024 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1333525218 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333519704 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328786716 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\option.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746822 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333524736 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\shen.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1333524738 source:k:\class asignment\cse-100\bangla panda [2012] (2)\bangla panda [2012]\tai.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1329052918 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\count.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1333493078 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\credit.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333539839 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\cro.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1329052498 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\eu.cpp
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<MMsystem.h>
+
+1333541352 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\game.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333524354 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\high_score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328785764 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\inoption.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333540582 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\logo.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<stdio.h>
+
+1333541118 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333541822 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\menu.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328786716 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\option.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1328746822 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\score.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<cstdio>
+
+1333539865 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\shen.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+
+1333539882 source:k:\class asignment\cse-100\bangla panda [2012]\bangla panda [2012]\tai.cpp
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+

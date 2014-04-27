@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="count.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="179" topLine="0" />
+	</File>
+	<File name="credit.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="203" topLine="0" />
+	</File>
+	<File name="cro.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="664" topLine="25" />
+	</File>
+	<File name="eu.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="47" />
+	</File>
+	<File name="game.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="1530" topLine="29" />
+	</File>
+	<File name="high_score.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="426" topLine="0" />
+	</File>
+	<File name="inoption.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="189" topLine="5" />
+	</File>
+	<File name="logo.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="101" topLine="1" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="269" topLine="5" />
+	</File>
+	<File name="menu.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1719" topLine="28" />
+	</File>
+	<File name="option.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="1293" topLine="21" />
+	</File>
+	<File name="score.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="227" topLine="10" />
+	</File>
+	<File name="shen.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="731" topLine="17" />
+	</File>
+	<File name="tai.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="689" topLine="22" />
+	</File>
+</CodeBlocks_layout_file>
